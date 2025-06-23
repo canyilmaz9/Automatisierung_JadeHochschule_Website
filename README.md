@@ -14,7 +14,6 @@ Dieses Projekt wurde mit den folgenden Zielen ins Leben gerufen
 - **TestNG:** Testdurchführung und Berichterstellung, erweiterte HTML-Berichterstellung.
 - **Extent Reports:** Erweiterte HTML-Berichterstattung.
 
-
 ---
 
 ## 🛠 Anforderungen
