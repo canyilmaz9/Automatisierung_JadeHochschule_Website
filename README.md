@@ -18,7 +18,7 @@ Dieses Projekt wurde mit den folgenden Zielen ins Leben gerufen
 
 ## 🛠 Anforderungen
 Für die Durchführung des Projekts sind die folgenden Werkzeuge erforderlich:
-- **Java JDK Eclipse Temurin 22.0.2)**
+- **Java JDK Eclipse Temurin 22.0.2**
 - Dependencies (Man kann unten ganz detalliert schauen): 
 - **org.seleniumhq.selenium 4.23.0** 
 - **testng 7.10.2**
